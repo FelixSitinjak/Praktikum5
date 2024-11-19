@@ -4,11 +4,11 @@ Program pertama yang akan dibuat adalah Program untuk menampilkan angka pertama 
 
 **Berikut flowchartnya**
 
-![Flowchart5](https://github.com/user-attachments/assets/94cc9654-0be1-48d4-8b6c-0aac8521f9f0)
+![WhatsApp Image 2024-11-19 at 17 02 23](https://github.com/user-attachments/assets/9a0d52e6-1846-4e2c-ae53-97e24189963a)
 
 **Program akan meminta kita untuk memasukkan nama, nim, nilai tugas, nilai uts, nilai uas dan tambah data :**
 
-<img width="725" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/e731b9cc-ab52-4e10-b9dd-3798d5eba981">
+<img width="725" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/81e5f0b8-edca-4ecf-91fa-98cc8f7b7494">
 
 **Penjelasan Code**
 
